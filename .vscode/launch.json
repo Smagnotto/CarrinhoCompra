@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarrinhoCompra<carrinho_compra>",
+            "request": "launch",
+            "mainClass": "br.com.saraiva.carrinho_compra.CarrinhoCompra",
+            "projectName": "carrinho_compra"
+        }
+    ]
+}
